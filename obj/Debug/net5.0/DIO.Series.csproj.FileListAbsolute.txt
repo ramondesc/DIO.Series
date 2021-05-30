@@ -1,0 +1,16 @@
+E:\code\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+E:\code\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+E:\code\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+E:\code\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+E:\code\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+E:\code\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+E:\code\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+E:\code\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+E:\code\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+E:\code\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+E:\code\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+E:\code\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+E:\code\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+E:\code\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+E:\code\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
